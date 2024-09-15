@@ -33,10 +33,10 @@ const About = () => {
                      who are passionate about creating a space for coders to thrive. We come from diverse coding backgrounds, 
                      and our shared vision drives us to continually improve and innovate.
 
-                    <br />- [Pritam Bijarniya] - [Team Leader]
+                    <br />- [Pritam Bijarniya] - [Full Stack Developer]
                     <br />- [Saurabh Nehra] - [Frontend developer]
                     <br />- [Steve Michael] - [Backend developer]
-                    <br />- [Sachin Yadav] - [Helper]
+                    <br />- [Sachin Yadav] - [Graphic Designer]
 </p>
     </div>
 
